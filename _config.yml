@@ -22,6 +22,9 @@ theme: "minima"
 
 rss: rss
 
+google_analytics:
+  - G-S53V15V65N # New GA4 property
+
 kramdown:
   syntax_highlighter_opts:
     disable: true
