@@ -1,4 +1,5 @@
-#Befudged UP - Reverse challenge from WolvCTF 24
+# Befudged UP - Reverse challenge from WolvCTF 24
+
 I played WolvCTF with the team [S.h.i.c.h.i.b.u.k.a.i](https://ctftime.org/team/274059) and there was an interesting reverse engineering challenge where there was an implementation of brainfuck like language but in Python.
 
 We are given 3 files:
